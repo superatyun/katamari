@@ -1,3 +1,6 @@
+index.html
+style.css
+main.js
 <!DOCTYPE html>
 <html lang="ja">
 <head>
